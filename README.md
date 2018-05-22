@@ -7,6 +7,4 @@ The game is played via the console/terminal interface.  There is no GUI interfac
 
 For simplicity, the computer does not intelligently choose its squares.  It merely chooses a square at random among the remaining choices.  
 
-The game results in either player winning, or a tie.
-
- 
+The game can result in either one of the two players winning, or a tie.
